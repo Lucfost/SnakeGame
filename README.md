@@ -1,4 +1,4 @@
-<h3 align="center">Source Code | SFML->files->sln->SnakeGame</h3>
+<h3 align="center">This Project was done with relative addressing method, you can download the file and run it without any settings. | Source Code | SFML->files->sln->SnakeGame</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
